@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+Hi, I am Aakriti. Let's start practise!
+I am learning git commands.
+This is my first assignment.
+
+
+hello
+=======
+Hi, I am Aakriti.
+I am learning git commands.
+This is my first assignment.
+>>>>>>> features
