@@ -1,0 +1,3 @@
+Hi, I am Aakriti.
+I am learning git commands.
+This is my first assignment.
